@@ -1,0 +1,6 @@
+[submodule "lib/SoundJS"]
+	path = lib/SoundJS
+	url = https://github.com/CreateJS/SoundJS.git
+[submodule "lib/threejs"]
+	path = lib/threejs
+	url = https://github.com/mrdoob/three.js.git
